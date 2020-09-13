@@ -3,7 +3,7 @@
 ## 10 класс.
 #### Учебник [на сайте авторов УМК](http://kpolyakov.spb.ru/loadstat.php?f=/download/ch10-8_python.pdf)
 1. [Алгоритм и его свойства](01.Алгоритм_и_его_свойства.md) (§54)
-2. Простейшие программы  (§55)
+2. [Простейшие программы](https://nbviewer.jupyter.org/github/ko74dev/PythonInSchool/blob/master/02.%D0%9F%D1%80%D0%BE%D1%81%D1%82%D0%B5%D0%B8%CC%86%D1%88%D0%B8%D0%B5_%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D1%8B.ipynb)  (§55)
     - [Тест "Оператор вывода"](http://olimp.avk-wellcom.ru/moodle/mod/quiz/view.php?id=349).
     - [Задание "Оператор вывода"](http://olimp.avk-wellcom.ru/moodle/mod/assign/view.php?id=350). 
 2. Простейшие программы  (§55)
