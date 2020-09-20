@@ -6,7 +6,7 @@
 2. [Простейшие программы](https://nbviewer.jupyter.org/github/ko74dev/PythonInSchool/blob/master/02.%D0%9F%D1%80%D0%BE%D1%81%D1%82%D0%B5%D0%B8%CC%86%D1%88%D0%B8%D0%B5_%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D1%8B.ipynb)  (§55)
     - [Тест "Оператор вывода"](http://olimp.avk-wellcom.ru/moodle/mod/quiz/view.php?id=349).
     - [Задание "Оператор вывода"](http://olimp.avk-wellcom.ru/moodle/mod/assign/view.php?id=350). 
-2. [Задание "Оператор ввода"](). 
+2. [Оператор ввода](). 
 3. Вычисления. Стандартные функции. (§56)
     - [Тест "Целочисленное деление и статок"]().
     - [ПР "Простые вычисления"]( "A B").
