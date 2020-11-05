@@ -9,7 +9,7 @@
 2. [Оператор ввода](https://github.com/ko74dev/PythonInSchool/blob/master/03_%D0%9E%D0%BF%D0%B5%D1%80%D0%B0%D1%82%D0%BE%D1%80_%D0%B2%D0%B2%D0%BE%D0%B4%D0%B0.ipynb). 
 3. [Вычисления. Стандартные функции. (§56)](04_Вычисления.ipynb)
     * [Тест "Целочисленное деление и статок"](http://olimp.avk-wellcom.ru/moodle/mod/quiz/view.php?id=405).
-    ~~ [ПР "Простые вычисления"](http://olimp.avk-wellcom.ru/moodle/mod/assign/view.php?id=406).~~
+    * [ПР "Простые вычисления"](http://olimp.avk-wellcom.ru/moodle/mod/assign/view.php?id=406).
 4. Ветвления. (§57)
     - [Тест "Ветвления"]().
     - [СР "Ветвления"]( "").
